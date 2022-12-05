@@ -1,6 +1,8 @@
 # TrabalhoSIB
 Trabalho	prático – análise	de	dados usando	aprendizagem	máquina
- 
+### Tema:
+[B1. Dream challenge Heart Failure and Microbiome](https://www.synapse.org/#!Synapse:syn27130803/wiki/619274) 
+
 ## Fase 1 (entrega 21/12):
 ### Exploração inicial e pré-processamento
 * Rever toda a documentação disponível sobre o conjunto de dados.
