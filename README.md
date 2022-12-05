@@ -1,6 +1,6 @@
 # TrabalhoSIB
  
-## Fase 1:
+## Fase 1 (entrega 21/12):
 ### Exploração inicial e pré-processamento
 * Rever toda a documentação disponível sobre o conjunto de dados.
 * Carregar o conjunto de dados e realizar uma análise exploratória do mesmo.
@@ -20,3 +20,9 @@
 ### Aprendizagem máquina
 * Comparar o comportamento de diversos modelos/ algoritmos de Aprendizagem Máquina no conjunto de dados. Deverá analisar o comportamento dos algoritmos calculando métricas de erro apropriadas e usando métodos de estimação do erro adequado. Deverá ainda apresentar o melhor modelo a que consiga chegar para os dados disponíveis, usando todos os exemplos, interpretando-o quando tal for possível.
 #### Esta etapa deve corresponder à secção 3 do Notebook onde deverá reportar e analisar criticamente os resultados da etapa 3.
+
+## Trabalho realizado por:
+- Alexandre Areias, PG45962
+- Rodrigo Ribeiro, PG45969
+- Rúben Silva, PG44580
+- Tiago Oliveira, PG45476
