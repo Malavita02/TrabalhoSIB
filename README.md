@@ -4,7 +4,8 @@ Trabalho	prático – análise	de	dados usando	aprendizagem	máquina
 [B1. Dream challenge Heart Failure and Microbiome](https://www.synapse.org/#!Synapse:syn27130803/wiki/619274) 
 
 ### Por fazer (fase 1):
-* Ver quais são as bacterias mais presentes nos inddividuos com HF
+* Utilizar varias métricas de erro (matriz de confusão, accuracy, outros)
+* Ver quais são as bacterias mais presentes nos individuos com HF
 * Clustering - Kmeans, PCA, outros;
 * Graficos multivariáveis;
 * Explicar os datasets e variáveis (o site tem muita cena explicada);
