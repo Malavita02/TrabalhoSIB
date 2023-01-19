@@ -3,6 +3,9 @@ Trabalho	prático – análise	de	dados usando	aprendizagem	máquina
 ### Tema:
 [B1. Dream challenge Heart Failure and Microbiome](https://www.synapse.org/#!Synapse:syn27130803/wiki/619274) 
 
+### Objetivo: 
+Utilizar uma combinação de dados microbiológicos e clínicos para avaliar o potencial da informação microbiológica do trato intestinal para previsões de risco sobre factores de risco convencionais numa grande população humana, através da construção de modelos de ML e DL.
+
 ### Por fazer (fase 1):
 * Utilizar varias métricas de erro (matriz de confusão, accuracy, outros)
 * Ver quais são as bacterias mais presentes nos individuos com HF
