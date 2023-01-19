@@ -6,6 +6,13 @@ Trabalho	prático – análise	de	dados usando	aprendizagem	máquina
 ### Objetivo: 
 Utilizar uma combinação de dados microbiológicos e clínicos para avaliar o potencial da informação microbiológica do trato intestinal para previsões de risco sobre factores de risco convencionais numa grande população humana, através da construção de modelos de ML e DL.
 
+### Indice:
+* exploração_inicial.ipynb -> Exploração inicial dos datasets fornecidos. 
+* pheno_ML -> Usado para testar modelos e diferentes abordagens do dataset pheno.
+* readcounts_ML -> Usado para testar modelos e diferentes abordagens do dataset readcounts.
+* fusion -> Usado para testar modelos e diferentes abordagens do dataset proveniente da junção dos datasets pheno e readcounts.
+* trabalho_sib -> Estrutura para a apresentação com os resultados mais relevantes e de forma mais organizada.
+
 ### Por fazer (fase 1):
 * Utilizar varias métricas de erro (matriz de confusão, accuracy, outros)
 * Ver quais são as bacterias mais presentes nos individuos com HF
