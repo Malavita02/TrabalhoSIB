@@ -11,6 +11,9 @@ Trabalho	prático – análise	de	dados usando	aprendizagem	máquina
   <a href="#tema">Tema</a> •
   <a href="#objetivo">Objetivo</a> •
   <a href="#indice">Índice</a> •
+  <a href="#fase-1">Fases de avaliação</a> •
+  <a href="#datas-importantes">Datas e Avaliação</a> •
+  <a href="#trabalho-realizado-por">Créditos</a>
 </p>
 
 
