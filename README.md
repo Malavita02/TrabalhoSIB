@@ -44,7 +44,10 @@ Esta etapa deve corresponder à secção 4 do Notebook onde deverá reportar e a
 criticamente os resultados da etapa 4.
 
 ## Datas importantes:
-Submissão da constituição do grupo e escolha do tema: 25 novembro 2022
+Submissão da constituição do grupo e escolha do tema: 
+* 25 novembro 2022
+</br>
+
 Submissão dos notebooks:
 * Etapas 1 a 3 – 21 dezembro 2022
 * Etapa 4 – 2 fevereiro 2022
