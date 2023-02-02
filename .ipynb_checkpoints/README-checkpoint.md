@@ -1,19 +1,5 @@
-<h1 align="center">
- <br>
-  TrabalhoSIB 
-  <br>
-</h1>
-
-
+# TrabalhoSIB
 Trabalho	prático – análise	de	dados usando	aprendizagem	máquina
-
-<p align="center">
-  <a href="#tema">Tema</a> •
-  <a href="#objetivo">Objetivo</a> •
-  <a href="#indice">Índice</a> •
-</p>
-
-
 ### Tema:
 [B1. Dream challenge Heart Failure and Microbiome](https://www.synapse.org/#!Synapse:syn27130803/wiki/619274) 
 
@@ -27,8 +13,16 @@ Utilizar uma combinação de dados microbiológicos e clínicos para avaliar o p
 * fusion -> Usado para testar modelos e diferentes abordagens do dataset proveniente da junção dos datasets pheno e readcounts.
 * trabalho_sib -> Estrutura para a apresentação com os resultados mais relevantes e de forma mais organizada.
 
+### Por fazer (fase 1):
+* Utilizar varias métricas de erro (matriz de confusão, accuracy, outros)
+* Ver quais são as bacterias mais presentes nos individuos com HF
+* Clustering - Kmeans, PCA, outros;
+* Graficos multivariáveis;
+* Explicar os datasets e variáveis (o site tem muita cena explicada);
+* Textos explicativos a cada passo e comentar o codigo sempre que possível;
+* Juntar tudo num notebook organizado.
 
-## Fase 1 (entrega 21/12/2022):
+## Fase 1 (entrega 21/12):
 ### Exploração inicial e pré-processamento
 * Rever toda a documentação disponível sobre o conjunto de dados;
 * Carregar o conjunto de dados e realizar uma análise exploratória do mesmo;
@@ -50,33 +44,6 @@ Utilizar uma combinação de dados microbiológicos e clínicos para avaliar o p
 ### Aprendizagem máquina
 * Comparar o comportamento de diversos modelos/ algoritmos de Aprendizagem Máquina no conjunto de dados. Deverá analisar o comportamento dos algoritmos calculando métricas de erro apropriadas e usando métodos de estimação do erro adequado. Deverá ainda apresentar o melhor modelo a que consiga chegar para os dados disponíveis, usando todos os exemplos, interpretando-o quando tal for possível.
 #### Esta etapa deve corresponder à secção 3 do Notebook onde deverá reportar e analisar criticamente os resultados da etapa 3.
-
-## Fase 2 (entrega 02/02/2023):
-### Deep learning
-* Utilizar métodos de deep learning de forma semelhante à etapa 3, comparando os resultados com os métodos aí apresentados.
-Esta etapa deve corresponder à secção 4 do Notebook onde deverá reportar e analisar
-criticamente os resultados da etapa 4.
-
-## Datas importantes:
-Submissão da constituição do grupo e escolha do tema: 
-* 25 novembro 2022
-</br>
-
-Submissão dos notebooks:
-* Etapas 1 a 3 – 21 dezembro 2022
-* Etapa 4 – 2 fevereiro 2022
-Apresentação: 18 janeiro 2022
-#### Avaliação:
-A avaliação dos trabalhos será feita recorrendo a 3 elementos:
-* Avaliação do notebook da fase 1 – peso de 40%
-* Avaliação do notebook da fase 2 – peso de 30%
-* Apresentação – peso de 30%
-
-O docente reserva-se o direito de justificadamente poder atribuir classificações
-distintas aos vários elementos de cada grupo. Os elementos de cada grupo poderão ser
-chamados a avaliar o desempenho dos colegas no trabalho, bem como a comentar/
-avaliar o trabalho de outros grupos.
-
 
 ## Trabalho realizado por:
 - [Alexandre Areias, PG45962](https://github.com/areias03)
