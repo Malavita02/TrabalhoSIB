@@ -11,7 +11,7 @@ Trabalho	prático – análise	de	dados usando	aprendizagem	máquina
   <a href="#tema">Tema</a> •
   <a href="#objetivo">Objetivo</a> •
   <a href="#indice">Índice</a> •
-  <a href="#fase-1-(entrega 21/12/2022)">Fases de avaliação</a> •
+  <a href="#fase-1-entrega-21122022">Fases de avaliação</a> •
   <a href="#datas-importantes">Datas e Avaliação</a> •
   <a href="#trabalho-realizado-por">Créditos</a>
 </p>
@@ -63,12 +63,13 @@ criticamente os resultados da etapa 4.
 ## Datas importantes:
 Submissão da constituição do grupo e escolha do tema: 
 * 25 novembro 2022
-</br>
 
 Submissão dos notebooks:
 * Etapas 1 a 3 – 21 dezembro 2022
 * Etapa 4 – 2 fevereiro 2022
+
 Apresentação: 18 janeiro 2022
+
 #### Avaliação:
 A avaliação dos trabalhos será feita recorrendo a 3 elementos:
 * Avaliação do notebook da fase 1 – peso de 40%
